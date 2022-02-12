@@ -1,0 +1,27 @@
+#####################################################################
+
+			    EXPERIMENTATION
+
+#####################################################################
+
+
+	Ce répertoire contient un script shell script.sh contenant 
+	toutes les commandes Shell nécessaires pour exploiter la
+	vulnérabilité CVE-2021-3560. 
+	
+	
+	Le fichier script.sh peut être exécuté sur une machine 
+	personnelle si vous utilisez un système Unix avec une 
+	des distributions vulnérables (listées dans le rapport). 
+	Ou vous pouvez utiliser la machine virtuelle récupérée grâce 
+	au fichier ./Vagrant/Vagrantfile via la commande :
+		
+		vagrant up 
+	
+	Ou vous pouvez récupérer d'autres machines virtuelles 
+	disponibles sur : 
+	
+		https://app.vagrantup.com/boxes/search
+		
+		
+     Réalisé par : Hossam ELOUATI (3A ISI) & Youness HAMOUMI (3A ISI)

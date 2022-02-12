@@ -1,0 +1,6 @@
+L'exploitation doit être faite dans un système Linux vulnérable comme Ubuntu 18.04.
+Vous pouvez vous servir d'une machine virtuelle mise à disposition et est 
+disponible grâce au Vagrantfile en tapant les commandes suivantes :
+	
+	vagrant up
+
